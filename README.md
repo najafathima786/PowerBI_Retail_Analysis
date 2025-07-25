@@ -2,17 +2,17 @@
 To perform interactive sales analytics using Power BI by connecting and transforming multiple retail datasets. The goal is to uncover actionable insights around revenue, customer distribution, and cancellations through visual dashboards.
 # Power BI Retail Analysis
 
-## 📖 Overview
+##  Overview
 This Power BI project analyzes retail data by managing multiple tables, creating relationships, and using DAX formulas to enhance the dataset. The objective is to generate insights into sales, customer distribution, and cancellation trends through interactive dashboards.
 
 ---
 
-## 🏢 Business Context
+##  Business Context
 The goal of this project is to simulate a business case where retail sales data is analyzed for KPIs like revenue, units sold, cancellations, and customer behavior. It involves integrating multiple datasets and generating dashboards to help business stakeholders make data-driven decisions.
 
 ---
 
-## 📊 Dataset Description
+##  Dataset Description
 
 The dataset consists of the following tables:
 
@@ -23,7 +23,7 @@ The dataset consists of the following tables:
 
 ---
 
-## 🔧 Data Cleaning & Transformation
+##  Data Cleaning & Transformation
 
 Steps performed:
 - Dropped records from PinCode-Geo where Zone is missing.
@@ -37,7 +37,7 @@ Steps performed:
 
 ---
 
-## 📈 Key Metrics & KPIs
+##  Key Metrics & KPIs
 
 | Metric              | Value     |
 |---------------------|-----------|
@@ -48,7 +48,7 @@ Steps performed:
 
 ---
 
-## 🧠 Insights Generated
+##  Insights Generated
 
 - Revenue and Transactions trends across months and weekdays
 - Zone-wise and City Tier performance
@@ -57,7 +57,7 @@ Steps performed:
 
 ---
 
-## 📊 Power BI Dashboard Features
+##  Power BI Dashboard Features
 
 ### Dashboard 1: City-wise Analysis
 - Visuals: Bar charts, pie charts, treemaps
@@ -70,14 +70,14 @@ Steps performed:
 <img width="1442" height="874" alt="Dashboard_!" src="https://github.com/user-attachments/assets/72e52fd0-08b4-4baa-8311-2485fee6c1b7" /><img width="1444" height="875" alt="Dasgboard_2" src="https://github.com/user-attachments/assets/1d74ad31-9151-4ec8-90fb-873fe1304241" />
 
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
 - GitHub (for project sharing)
 
 ---
 
-## 📂 Repository Contents
+##  Repository Contents
 
 | File Name               | Description                           |
 |-------------------------|---------------------------------------|
@@ -88,7 +88,7 @@ Steps performed:
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Clone or download the repository.
 2. Open Retail_Analysis.pbix in Power BI Desktop.
